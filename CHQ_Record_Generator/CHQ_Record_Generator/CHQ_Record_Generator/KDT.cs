@@ -15,6 +15,7 @@ namespace CHQ_Record_Generator
         }
         public void Load(System.Data.SqlClient.SqlDataAdapter DA)
         {
+            String str="Hello";
             _SQL = DA.SelectCommand.CommandText ;
             DA.Fill(this);
 
