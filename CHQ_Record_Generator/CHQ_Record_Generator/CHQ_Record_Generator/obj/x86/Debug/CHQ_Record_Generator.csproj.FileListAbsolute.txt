@@ -1,0 +1,17 @@
+C:\Users\user\AppData\Local\Temporary Projects\CHQ_Record_Generator\bin\Debug\CHQ_Record_Generator.exe.config
+C:\Users\user\AppData\Local\Temporary Projects\CHQ_Record_Generator\bin\Debug\CHQ_Record_Generator.exe
+C:\Users\user\AppData\Local\Temporary Projects\CHQ_Record_Generator\bin\Debug\CHQ_Record_Generator.pdb
+C:\Users\user\AppData\Local\Temporary Projects\CHQ_Record_Generator\obj\x86\Debug\CHQ_Record_Generator.Form1.resources
+C:\Users\user\AppData\Local\Temporary Projects\CHQ_Record_Generator\obj\x86\Debug\CHQ_Record_Generator.Properties.Resources.resources
+C:\Users\user\AppData\Local\Temporary Projects\CHQ_Record_Generator\obj\x86\Debug\CHQ_Record_Generator.csproj.GenerateResource.Cache
+C:\Users\user\AppData\Local\Temporary Projects\CHQ_Record_Generator\obj\x86\Debug\CHQ_Record_Generator.exe
+C:\Users\user\AppData\Local\Temporary Projects\CHQ_Record_Generator\obj\x86\Debug\CHQ_Record_Generator.pdb
+D:\CODE\visual studio 2010\Projects\CHQ_Record_Generator\CHQ_Record_Generator\CHQ_Record_Generator\bin\Debug\CHQ_Record_Generator.exe.config
+D:\CODE\visual studio 2010\Projects\CHQ_Record_Generator\CHQ_Record_Generator\CHQ_Record_Generator\obj\x86\Debug\CHQ_Record_Generator.exe
+D:\CODE\visual studio 2010\Projects\CHQ_Record_Generator\CHQ_Record_Generator\CHQ_Record_Generator\obj\x86\Debug\CHQ_Record_Generator.pdb
+D:\CODE\visual studio 2010\Projects\CHQ_Record_Generator\CHQ_Record_Generator\CHQ_Record_Generator\bin\Debug\CHQ_Record_Generator.exe
+D:\CODE\visual studio 2010\Projects\CHQ_Record_Generator\CHQ_Record_Generator\CHQ_Record_Generator\bin\Debug\CHQ_Record_Generator.pdb
+D:\CODE\visual studio 2010\Projects\CHQ_Record_Generator\CHQ_Record_Generator\CHQ_Record_Generator\obj\x86\Debug\CHQ_Record_Generator.Form1.resources
+D:\CODE\visual studio 2010\Projects\CHQ_Record_Generator\CHQ_Record_Generator\CHQ_Record_Generator\obj\x86\Debug\CHQ_Record_Generator.Properties.Resources.resources
+D:\CODE\visual studio 2010\Projects\CHQ_Record_Generator\CHQ_Record_Generator\CHQ_Record_Generator\obj\x86\Debug\CHQ_Record_Generator.csproj.GenerateResource.Cache
+D:\CODE\visual studio 2010\Projects\CHQ_Record_Generator\CHQ_Record_Generator\CHQ_Record_Generator\obj\x86\Debug\CHQ_Record_Generator.csprojResolveAssemblyReference.cache
